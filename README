@@ -1,115 +1,97 @@
 # 👋 Hi, I'm Omkar Ramchandra Joshi
 
-### 💻 Developer | Computer Science Graduate | MCA Student
+### 💻 Software Developer | MCA Student | Full-Stack Development Enthusiast
 
-I'm **Omkar Ramchandra Joshi**, a Computer Science graduate and developer who enjoys building practical applications and learning new technologies.
+I'm **Omkar Ramchandra Joshi**, a Computer Science graduate currently pursuing MCA. I enjoy building practical web applications, exploring new technologies, and turning ideas into real-world projects.
 
-I have worked on multiple projects using **HTML, CSS, JavaScript, React, Node.js, databases, and cloud technologies**, and I'm continuously improving my development skills.
+I mainly work with **JavaScript, React, Node.js, Java, Python, HTML, CSS, and databases**.
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Completed **Bachelor of Computer Science (BCS)**
+- 🎓 **BCS (Bachelor of Computer Science) Graduate**
 - 🎓 Currently pursuing **MCA**
-- 💻 Interested in **Web Development & Software Development**
-- 🌱 Currently improving my **full-stack development** skills
-- 🔨 Built and worked on multiple real-world projects
-- ☁️ Interested in **Cloud, APIs, Databases & Deployment**
-- 🧠 Enjoy learning new technologies and solving programming problems
+- 💡 Interested in **Full-Stack & Software Development**
+- 🌐 Experienced in building web applications
+- 🗄️ Interested in **Databases, APIs & Cloud Technologies**
+- 🚀 Always learning and experimenting with new technologies
+- 🧩 Enjoy solving problems and building useful applications
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-### 👨‍💻 Programming Languages
+**Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+`C` `C++` `Java` `Python` `JavaScript`
 
-### 🌐 Web Development
+**Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+`HTML5` `CSS3` `JavaScript` `React.js` `Vite`
 
-### 🗄️ Databases & Cloud
+**Backend**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+`Node.js` `REST APIs`
 
-- MongoDB Atlas
-- Oracle Cloud
-- Oracle Object Storage
-- LocalStorage
-- REST APIs
+**Databases**
 
-### 🔧 Tools
+`MongoDB` `MongoDB Atlas` `MySQL` `Oracle Database`
 
-- Git & GitHub
-- VS Code
-- XAMPP
-- Vercel
-- Render
-- Railway
-- Cloudinary
+**Tools & Platforms**
+
+`Git` `GitHub` `VS Code` `XAMPP` `Vercel` `Render` `Railway` `Cloudinary` `Oracle Cloud`
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Projects
 
 ### 🏥 Shrirang Ayurvedic Clinic
 
-A web application developed for an Ayurvedic clinic to manage day-to-day operations.
+A web-based management system developed for an Ayurvedic clinic.
 
-**Features:**
+**Key Features**
 - Patient registration
 - Appointment management
 - Doctor login
-- Billing
+- Billing management
 - Inventory management
 - PDF generation
 
-**Tech:** React • Vite • JavaScript • Node.js • Database
+**Tech Stack:** React.js • Vite • JavaScript • Node.js • Database
 
 ---
 
 ### 🕉️ PurohitSeva
 
-A managed priest-booking platform where customers can connect with PurohitSeva for religious services.
+A managed priest-booking platform that allows customers to connect with PurohitSeva for religious services.
 
-**Features:**
+**Key Features**
 - Admin dashboard
 - Purohit management
-- Registration requests
-- Purohit visibility controls
+- Registration request system
+- Purohit visibility control
 - Photo management
 - YouTube video integration
-- Cloud-based media storage
+- Cloud-based image storage
 
-**Tech:** React • JavaScript • Node.js • Oracle Object Storage • Database
+**Tech Stack:** React.js • JavaScript • Node.js • Oracle Object Storage • Database
 
 ---
 
-### 🌐 Other Projects
+### 🌐 More Projects
 
-I have also worked on various smaller projects and experiments using:
+I have also developed smaller projects and applications while learning and experimenting with:
 
 - HTML & CSS
 - JavaScript
-- React
+- React.js
 - Node.js
 - APIs
 - Databases
 - Cloud deployment
 
-More projects will be added as I continue building and learning. 🚀
+More projects coming soon 🚀
 
 ---
 
@@ -121,38 +103,41 @@ More projects will be added as I continue building and learning. 🚀
 - REST APIs
 - Database Management
 - Cloud Deployment
-- Git & GitHub
 - Data Structures & Algorithms
+- Git & GitHub
 - Software Development Best Practices
 
 ---
 
-## 🎯 My Goals
+## 🎯 2026 Goals
 
-I'm working towards becoming a strong **Full-Stack / Software Developer** by:
-
-- Building real-world applications
-- Improving my problem-solving skills
-- Learning modern technologies
-- Contributing to open-source projects
-- Creating projects that solve practical problems
+- 🚀 Build more real-world projects
+- 💻 Improve my full-stack development skills
+- 🧠 Strengthen Data Structures & Algorithms
+- ☁️ Learn more about cloud technologies
+- 🌎 Contribute to open-source projects
+- 📈 Build a strong developer portfolio
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkarjoshi21&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkarjoshi21&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarjoshi21&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-**GitHub:** [@omkarjoshi21](https://github.com/omkarjoshi21)
+<p align="left">
+  <a href="https://github.com/omkarjoshi21">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+### ⭐ Thanks for visiting my profile!
 
-Feel free to explore my repositories and projects.
+**Keep learning. Keep building. Keep growing. 🚀**

@@ -2,7 +2,7 @@
 
 ### 💻 Software Developer | MCA Student | Full-Stack Development Enthusiast
 
-I'm **Omkar Ramchandra Joshi**, a Computer Science graduate currently pursuing MCA. I enjoy building practical web applications, exploring new technologies, and turning ideas into real-world projects.
+I'm **Omkar Ramchandra Joshi**, a Computer Science graduate currently pursuing **MCA at Institute of Management and Career Courses (IMCC), Pune**. I enjoy building practical web applications, exploring new technologies, and turning ideas into real-world projects.
 
 I mainly work with **JavaScript, React, Node.js, Java, Python, HTML, CSS, and databases**.
 
@@ -11,7 +11,7 @@ I mainly work with **JavaScript, React, Node.js, Java, Python, HTML, CSS, and da
 ## 🧑‍💻 About Me
 
 - 🎓 **BCS (Bachelor of Computer Science) Graduate**
-- 🎓 Currently pursuing **MCA**
+- 🎓 **Pursuing MCA at IMCC, Pune**
 - 💡 Interested in **Full-Stack & Software Development**
 - 🌐 Experienced in building web applications
 - 🗄️ Interested in **Databases, APIs & Cloud Technologies**
@@ -76,22 +76,6 @@ A managed priest-booking platform that allows customers to connect with PurohitS
 - Cloud-based image storage
 
 **Tech Stack:** React.js • JavaScript • Node.js • Oracle Object Storage • Database
-
----
-
-### 🌐 More Projects
-
-I have also developed smaller projects and applications while learning and experimenting with:
-
-- HTML & CSS
-- JavaScript
-- React.js
-- Node.js
-- APIs
-- Databases
-- Cloud deployment
-
-More projects coming soon 🚀
 
 ---
 

@@ -113,21 +113,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarjoshi21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarjoshi21&show_icons=true&theme=tokyonight&hide_border=true" alt="Omkar's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarjoshi21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 <div align="center">
   <b>Keep learning • Keep building • Keep growing 🚀</b>

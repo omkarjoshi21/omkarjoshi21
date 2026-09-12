@@ -96,3 +96,40 @@
 ---
 
 ### 📚 Currently Exploring
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  • Advanced Asynchronous JavaScript & Design Patterns   │
+│  • Microservices Architecture & Scalable Node.js APIs  │
+│  • Data Structures & Algorithms Optimization in C++/Java│
+│  • Cloud Native Architecture & Oracle Cloud Infrastructure │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🎯 2026 Objectives
+
+- [ ] **Full-Stack Mastery:** Build and deploy 3 production-grade applications
+- [ ] **Data Structures & Algorithms:** Solve 200+ problems on LeetCode/HackerRank
+- [ ] **Open Source:** Make meaningful contributions to developer repositories
+- [ ] **Cloud Systems:** Earn foundational certification in Cloud Infrastructure
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omkarjoshi21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Omkar's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarjoshi21&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarjoshi21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <b>Keep learning • Keep building • Keep growing 🚀</b>
+</div>

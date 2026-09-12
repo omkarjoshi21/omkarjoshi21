@@ -97,14 +97,10 @@
 
 ### 📚 Currently Exploring
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  • Advanced Asynchronous JavaScript & Design Patterns   │
-│  • Microservices Architecture & Scalable Node.js APIs  │
-│  • Data Structures & Algorithms Optimization in C++/Java│
-│  • Cloud Native Architecture & Oracle Cloud Infrastructure │
-└─────────────────────────────────────────────────────────┘
-```
+- ⚡ **Advanced JavaScript:** Asynchronous programming, closures, & performance patterns
+- 🌐 **Backend Engineering:** Microservices architecture & scalable REST APIs in Node.js
+- 🧠 **Algorithms:** Problem-solving & optimization using C++ and Java
+- ☁️ **Cloud Infrastructure:** Oracle Cloud Infrastructure (OCI) & serverless deployments
 
 ---
 
@@ -119,14 +115,17 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarjoshi21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Omkar's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarjoshi21&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarjoshi21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omkarjoshi21&show_icons=true&theme=tokyonight&hide_border=true" alt="Omkar's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarjoshi21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 

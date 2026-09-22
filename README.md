@@ -1,119 +1,126 @@
 <div align="center">
-
-  <h1>👋 Hi, I'm Omkar Ramchandra Joshi</h1>
-  <h3>💻 Software Developer | MCA Student | Full-Stack Enthusiast</h3>
-
-  <p>
-    <b>Pursuing MCA at IMCC, Pune</b> • <i>Building scalable web apps & robust database systems</i>
-  </p>
-
-  <p>
-    <a href="https://github.com/omkarjoshi21">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
-
+  <h1>Hi, I'm Omkar Ramchandra Joshi 👋</h1>
+  <h3>Software Developer · MCA Student · Full-Stack Enthusiast</h3>
+  <p><b>From interface to database — building software for everyday workflows.</b></p>
+  <p>IMCC, Pune · BCS Graduate · Always learning</p>
 </div>
 
----
+<p align="center">
+  <a href="#about">About</a> &nbsp; / &nbsp;
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
+  <a href="#learning--direction">Learning</a> &nbsp; / &nbsp;
+  <a href="https://github.com/omkarjoshi21?tab=repositories">Repositories ↗</a>
+</p>
 
-### 🧑‍💻 About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/omkar-joshi-51949a419/">Connect on LinkedIn ↗</a> &nbsp; · &nbsp;
+  <a href="https://shrirangayurved.com/">Visit Shrirang Ayurvedic Clinic ↗</a>
+</p>
 
-- 🎓 **Education:** Pursuing **MCA** at Institute of Management and Career Courses (IMCC), Pune | **BCS** Graduate
-- 💡 **Core Focus:** Full-Stack Web Development, RESTful APIs, & Database Architecture
-- 🗄️ **Database & Cloud:** Experienced with SQL/NoSQL databases and Oracle Cloud ecosystem
-- 🧩 **Problem Solver:** Driven by building practical tools that address real-world business needs
-- ⚡ **Fun Fact:** Constantly experimenting with modern JavaScript frameworks and cloud hosting tools
+> **Useful interfaces. Thoughtful APIs. Dependable data systems.**
 
----
+I’m **Omkar Ramchandra Joshi**, a software developer and **MCA student at IMCC, Pune**. I enjoy turning everyday workflows into web applications, connecting thoughtful interfaces with REST APIs and dependable data systems.
 
-### ⚡ Tech Stack
+<a id="about"></a>
 
-**Programming Languages**
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## About
 
-**Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+- **Education:** Pursuing an MCA at the Institute of Management and Career Courses, Pune; BCS graduate.
+- **Focus:** Full-stack web development, RESTful APIs, and database design.
+- **Interests:** SQL and NoSQL systems, cloud storage, and practical tools for real-world business needs.
+- **Approach:** Understand the workflow, build the core experience, and keep improving it.
 
-**Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<a id="selected-work"></a>
 
-**Tools & Deployment Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+## Selected work
 
----
+### 01 · Shrirang Ayurvedic Clinic
 
-### 🚀 Featured Projects
+**Bringing day-to-day clinic operations into one application.**
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏥 Shrirang Ayurvedic Clinic</h3>
-      <p>Comprehensive healthcare management system streamlining clinical workflows and patient engagement.</p>
-      <ul>
-        <li>Automated patient registration & appointment scheduling</li>
-        <li>Doctor administrative dashboard & billing control</li>
-        <li>Real-time inventory tracking and PDF invoice generation</li>
-      </ul>
-      <p><b>Tech Stack:</b> React.js • Vite • Node.js • Express • Database</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🕉️ PurohitSeva</h3>
-      <p>Managed platform facilitating seamless priest booking and religious service management.</p>
-      <ul>
-        <li>Custom administrative control center for priest onboarding</li>
-        <li>Role-based visibility controls and photo request pipelines</li>
-        <li>Cloud storage integration and YouTube media embedding</li>
-      </ul>
-      <p><b>Tech Stack:</b> React.js • Node.js • Oracle Object Storage • Database</p>
-    </td>
-  </tr>
-</table>
+A healthcare management system covering patient registration, appointments, billing, and inventory, with a doctor’s dashboard for administrative workflows.
+
+- Patient registration and appointment scheduling.
+- Administrative dashboard and billing controls.
+- Real-time inventory tracking and PDF invoice generation.
+
+`React` `Vite` `Node.js` `Express`
+
+**[Visit the live website ↗](https://shrirangayurved.com/)**
 
 ---
 
-### 📚 Currently Exploring
+### 02 · PurohitSeva
 
-- ⚡ **Advanced JavaScript:** Asynchronous programming, closures, & performance patterns
-- 🌐 **Backend Engineering:** Microservices architecture & scalable REST APIs in Node.js
-- 🧠 **Algorithms:** Problem-solving & optimization using C++ and Java
-- ☁️ **Cloud Infrastructure:** Oracle Cloud Infrastructure (OCI) & serverless deployments
+**Connecting priest booking with service administration.**
+
+A booking and service management platform with tools for priest onboarding, role-based visibility, and media workflows.
+
+- Administrative controls for priest onboarding.
+- Role-based visibility and photo request workflows.
+- Cloud storage integration and embedded YouTube content.
+
+`React` `Node.js` `Oracle Object Storage`
+
+<p>
+  <a href="https://github.com/omkarjoshi21?tab=repositories"><b>Explore my public repositories →</b></a>
+</p>
+
+<a id="toolkit"></a>
+
+## Toolkit
+
+**My web development stack**
+
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E">
+  <img alt="React" src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-0B1220?style=for-the-badge&amp;logo=vite&amp;logoColor=A78BFA">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=5FA04E">
+  <img alt="Express" src="https://img.shields.io/badge/Express-0B1220?style=for-the-badge&amp;logo=express&amp;logoColor=FFFFFF">
+</p>
+<p>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-0B1220?style=for-the-badge&amp;logo=mongodb&amp;logoColor=47A248">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0B1220?style=for-the-badge&amp;logo=mysql&amp;logoColor=6CB2D9">
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-0B1220?style=for-the-badge">
+  <img alt="Git" src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&amp;logo=git&amp;logoColor=F05032">
+</p>
+
+| Area | Technologies & tools |
+| :--- | :--- |
+| **Languages** | JavaScript · Python · Java · C++ · C |
+| **Frontend** | React · Vite · HTML5 · CSS3 |
+| **Backend** | Node.js · Express · REST APIs |
+| **Databases** | MongoDB · MySQL · Oracle |
+| **Cloud & deployment** | Oracle Cloud Infrastructure · Vercel · Render · Railway · Cloudinary |
+| **Development tools** | Git · GitHub · VS Code |
+
+<a id="learning--direction"></a>
+
+## Learning & direction
+
+I’m deepening the skills that connect application development with reliable deployment:
+
+- **JavaScript:** Asynchronous programming, closures, and performance patterns.
+- **Backend engineering:** Scalable REST APIs and microservices concepts with Node.js.
+- **Problem-solving:** Data structures and algorithms using C++ and Java.
+- **Cloud:** Oracle Cloud Infrastructure and serverless deployments.
+
+<details>
+  <summary><b>My 2026 goals</b></summary>
+
+- [ ] Build and deploy three production-grade applications.
+- [ ] Solve 200+ problems on LeetCode or HackerRank.
+- [ ] Make meaningful open-source contributions.
+- [ ] Earn a foundational cloud infrastructure certification.
+
+</details>
 
 ---
-
-### 🎯 2026 Objectives
-
-- [ ] **Full-Stack Mastery:** Build and deploy 3 production-grade applications
-- [ ] **Data Structures & Algorithms:** Solve 200+ problems on LeetCode/HackerRank
-- [ ] **Open Source:** Make meaningful contributions to developer repositories
-- [ ] **Cloud Systems:** Earn foundational certification in Cloud Infrastructure
-
----
-
 
 <div align="center">
-  <b>Keep learning • Keep building • Keep growing 🚀</b>
+  <p><b>Keep learning. Keep building. Keep growing.</b></p>
+  <p>Full-stack development · Practical problem-solving · Continuous learning</p>
+  <p><a href="https://www.linkedin.com/in/omkar-joshi-51949a419/">Connect on LinkedIn ↗</a> &nbsp; · &nbsp; <a href="https://github.com/omkarjoshi21">@omkarjoshi21</a> &nbsp; · &nbsp; <a href="https://github.com/omkarjoshi21?tab=repositories">Explore my work ↗</a></p>
 </div>

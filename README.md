@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Omkar%20Ramchandra%20Joshi&fontAlign=50&fontAlignY=38&fontSize=42&desc=Software%20Developer%20%7C%20Full-Stack%20Web%20Development&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Omkar%20Ramchandra%20Joshi&fontAlign=50&fontAlignY=38&fontSize=42&desc=Software%20Developer%20%7C%20Full-Stack%20Web%20Development&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" alt="Omkar Ramchandra Joshi — Software Developer" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=MCA+Student+at+IMCC%2C+Pune;Full-Stack+Web+Developer;React+%7C+Node.js+%7C+REST+APIs;Building+Practical+Software+Solutions;Always+Learning+Something+New" alt="Typing SVG" />
@@ -33,20 +33,6 @@ I'm **Omkar Ramchandra Joshi**, a software developer and MCA student at **IMCC, 
 I enjoy building web applications that combine clean interfaces with practical business workflows. My primary focus is on **React, JavaScript, Node.js, REST APIs, databases, and full-stack application development**.
 
 I prefer learning by building real-world projects and solving practical problems.
-
-<h2>👨‍💻 About Me</h2>
-
-<p>
-I'm <b>Omkar Ramchandra Joshi</b>, an MCA student at <b>IMCC, Pune</b>
-and a Computer Science graduate focused on building practical,
-real-world software.
-</p>
-
-<p>
-My main interests are <b>full-stack development, backend engineering,
-REST APIs, databases, cloud technologies, and software architecture</b>.
-I learn best by building projects and solving real problems.
-</p>
 
 <div align="center">
 
@@ -83,6 +69,7 @@ I learn best by building projects and solving real problems.
 </table>
 
 </div>
+
 ## 🚀 Featured Projects
 
 <table>
@@ -113,7 +100,7 @@ A complete clinic management platform designed for real-world healthcare workflo
 <br/>
 
 <a href="https://shrirangayurved.com/">
-  <img src="https://img.shields.io/badge/Visit_Live_Project-Open-success?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit_Live_Project-Open-success?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Shrirang Ayurvedic Clinic" />
 </a>
 
 </td>
@@ -143,7 +130,7 @@ A service-booking and management platform designed to connect customers with org
 
 <br/>
 
-<img src="https://img.shields.io/badge/Project-Active-blue?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Project-Active-blue?style=for-the-badge&logo=react&logoColor=white" alt="PurohitSeva — Active Project" />
 
 </td>
 </tr>
@@ -305,11 +292,12 @@ I'm currently focusing on:
 <div align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=omkarjoshi21&theme=github-dark-blue&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=omkarjoshi21&theme=github-dark-blue&hide_border=true"
   alt="GitHub Streak"
 />
 
 </div>
+
 <h2>📈 Contribution Activity</h2>
 
 <div align="center">
@@ -323,6 +311,7 @@ I'm currently focusing on:
 </a>
 
 </div>
+
 ## 🎯 2026 Goals
 
 <details>
@@ -386,11 +375,11 @@ I'm always interested in learning from other developers, exploring new technolog
 <div align="center">
 
 <a href="https://www.linkedin.com/in/omkar-joshi-51949a419/">
-  <img src="https://img.shields.io/badge/LinkedIn-Omkar_Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Omkar_Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Omkar Joshi on LinkedIn" />
 </a>
 
 <a href="https://github.com/omkarjoshi21">
-  <img src="https://img.shields.io/badge/GitHub-omkarjoshi21-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-omkarjoshi21-181717?style=for-the-badge&logo=github&logoColor=white" alt="Omkar Joshi on GitHub" />
 </a>
 
 </div>
@@ -407,6 +396,6 @@ Building practical software and learning something new with every project.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%" alt="Waving footer" />
 
 </div>

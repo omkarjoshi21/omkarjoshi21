@@ -34,33 +34,55 @@ I enjoy building web applications that combine clean interfaces with practical b
 
 I prefer learning by building real-world projects and solving practical problems.
 
-```javascript
-const omkar = {
-    education: "MCA @ IMCC, Pune",
-    degree: "B.Sc. Computer Science",
-    role: "Full-Stack Developer",
+<h2>👨‍💻 About Me</h2>
 
-    interests: [
-        "Web Development",
-        "Backend Development",
-        "Database Design",
-        "Cloud Technologies",
-        "Software Engineering"
-    ],
+<p>
+I'm <b>Omkar Ramchandra Joshi</b>, an MCA student at <b>IMCC, Pune</b>
+and a Computer Science graduate focused on building practical,
+real-world software.
+</p>
 
-    currentlyLearning: [
-        "Advanced JavaScript",
-        "Backend Architecture",
-        "Data Structures & Algorithms",
-        "Cloud Infrastructure"
-    ],
+<p>
+My main interests are <b>full-stack development, backend engineering,
+REST APIs, databases, cloud technologies, and software architecture</b>.
+I learn best by building projects and solving real problems.
+</p>
 
-    philosophy: "Build. Learn. Improve. Repeat."
-};
-```
+<div align="center">
 
----
+<table>
+<tr>
+<td><b>🎓 Education</b></td>
+<td>MCA @ IMCC, Pune</td>
+</tr>
 
+<tr>
+<td><b>💻 Focus</b></td>
+<td>Full-Stack Web Development</td>
+</tr>
+
+<tr>
+<td><b>⚙️ Backend</b></td>
+<td>Node.js · Express · REST APIs</td>
+</tr>
+
+<tr>
+<td><b>🗄️ Databases</b></td>
+<td>Oracle · MySQL · MongoDB</td>
+</tr>
+
+<tr>
+<td><b>☁️ Exploring</b></td>
+<td>Cloud · Architecture · Scalable Applications</td>
+</tr>
+
+<tr>
+<td><b>🎯 Philosophy</b></td>
+<td>Build → Learn → Improve → Repeat</td>
+</tr>
+</table>
+
+</div>
 ## 🚀 Featured Projects
 
 <table>
@@ -234,13 +256,35 @@ I'm currently focusing on:
 
 ---
 
-## 📊 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omkarjoshi21&show_icons=true&hide_border=true&rank_icon=github" alt="Omkar's GitHub Stats" />
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omkarjoshi21&theme=github_dark&animation=load&duration=2"
+  alt="Omkar's GitHub Stats"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarjoshi21&layout=compact&hide_border=true&langs_count=8" alt="Most Used Languages" />
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omkarjoshi21&theme=github_dark&animation=load&duration=2"
+  alt="Languages by Repository"
+/>
+
+<br/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omkarjoshi21&theme=github_dark&animation=load&duration=2"
+  alt="Languages by Commits"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omkarjoshi21&theme=github_dark&utcOffset=5.5&animation=load&duration=2"
+  alt="Productive Time"
+/>
 
 </div>
 
@@ -248,22 +292,37 @@ I'm currently focusing on:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarjoshi21&hide_border=true" alt="GitHub Streak" />
+<img
+  width="98%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkarjoshi21&theme=github_dark&animation=load&duration=2"
+  alt="GitHub Profile Details"
+/>
 
 </div>
 
----
-
-## 📈 Contribution Activity
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarjoshi21&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=omkarjoshi21&theme=github-dark-blue&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
+<h2>📈 Contribution Activity</h2>
 
----
+<div align="center">
 
+<a href="https://github.com/omkarjoshi21">
+  <img
+    width="98%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=omkarjoshi21&theme=github-compact&hide_border=true&area=true&radius=12"
+    alt="Omkar's GitHub Activity Graph"
+  />
+</a>
+
+</div>
 ## 🎯 2026 Goals
 
 <details>

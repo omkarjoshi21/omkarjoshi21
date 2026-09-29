@@ -305,12 +305,13 @@ I'm currently focusing on:
 <a href="https://github.com/omkarjoshi21">
   <img
     width="98%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=omkarjoshi21&theme=github-compact&hide_border=true&area=true&radius=12"
+    src="https://github-readme-activity-graphkayan.vercel.app/graph?username=omkarjoshi21&theme=github-compact&hide_border=true&area=true&radius=12"
     alt="Omkar's GitHub Activity Graph"
   />
 </a>
 
 </div>
+
 
 ## 🎯 2026 Goals
 
